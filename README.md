@@ -6,8 +6,8 @@ Nesse projeto quero aprender mais sobre essa linguagem fantastica enquanto regis
 
 Pra me acompanhar nessa jornada é muito simples! Você precisa instalar:
 
-[Dart](https://dart.dev/)
-[Git ](https://git-scm.com/)(caso queira registrar também)
+- [Dart](https://dart.dev/)
+- [Git ](https://git-scm.com/)(caso queira registrar também)
 
 ## Falando um pouco sobre o Dart
 
