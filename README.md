@@ -8,6 +8,7 @@ Pra me acompanhar nessa jornada é muito simples! Você precisa instalar:
 
 - [Dart](https://dart.dev/)
 - [Git ](https://git-scm.com/)(caso queira registrar também)
+- E vontade de aprender 😉
 
 ## Falando um pouco sobre o Dart
 
