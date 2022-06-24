@@ -3,7 +3,7 @@
   Essa estrutura pode ser feita de 3 formas sendo elas o "for", "while" e o "do while"
   Nesse exemplo usei o for que têm a seguinte estrutura:
     for(inicialização, condição, incrementação) {
-      bloco de código
+      bloco de código que irá repetir
     }
 */
 
